@@ -1,0 +1,14 @@
+target/
+.DS_STORE
+.idea/*
+*.iml
+.settings/*
+classes/*
+bin/*
+javadocs/*
+.classpath
+.project
+logs/
+#windows
+Desktop.ini
+_desktop.ini
